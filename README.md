@@ -8,3 +8,4 @@
 - :skull: Fun fact: C is not that bad.
 - 🤔 I’m looking for help with learning Git
 - 💬 Ask me about anything, really :)
+- :sunglasses: My site [KamilMleczko.github.io](https://kamilmleczko.github.io)
