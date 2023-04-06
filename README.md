@@ -7,5 +7,6 @@
 - :skull: Fun fact: C is not that bad.
 - 🤔 I’m looking for help with learning C++ and Python
 - 💬 Ask me about anything, really :)
+- Here is my email for contact :) kamil.mleczko.42@gmail.com
 - :sunglasses: My site [KamilMleczko.github.io](https://kamilmleczko.github.io)
 
