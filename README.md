@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Here are few facts about me:
 - :computer:I am passionate CS student from Poland
