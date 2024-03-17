@@ -1,3 +1,17 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Tangerine:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+<p>
+    <div style="display:flex;">
+        <h1 style="color: white;">
+            <img src="images/gear.png" width="20" height="20"/>
+            &nbsp;Kamil Mleczko&nbsp;
+            <img src="images/web-development.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;
+        </h1>
+    </div>
+</p>
 ### Hi there 👋
 
 ### 🤖 Languages and Tools
