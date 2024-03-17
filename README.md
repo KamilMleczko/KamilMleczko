@@ -1,20 +1,12 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Tangerine:wght@700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
-
-<p>
-    <div style="display:flex;">
-        <h1 style="color: white;">
-            <img src="images/gear.png" width="20" height="20"/>
-            &nbsp;Kamil Mleczko&nbsp;
-            <img src="images/web-development.png" width="20" height="20"/>&nbsp;&nbsp;&nbsp;
-        </h1>
-    </div>
-</p>
 ### Hi there 👋
 
-### 🤖 Languages and Tools
+## Here are few facts about me:
+- :computer:I am passionate CS student from Poland
+- 🤔 Looking for an internship
+- 💬 Ask me about anything, really :)
+- ✉️ Contact me via:
+- my email: "kamil.mleczko.4242@gmail.com"
+## 🤖 Languages and Tools
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -27,14 +19,3 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-## Here are few facts about me:
-
-- :v: I’m currently working on my own site.
-- :computer: I’m Computer Science student, studying at AGH University in Cracow.
-- :skull: Fun fact: C is not that bad.
-- 🤔 I’m looking for help with learning C++ and Python
-- 💬 Ask me about anything, really :)
-- :sunglasses: My site [KamilMleczko.github.io](https://kamilmleczko.github.io)
-- ✉️ Contact me via:
-- my email: "kamil.mleczko.42@gmail.com"
