@@ -2,7 +2,6 @@
 
 ## About me:
 - :computer:I am passionate CS student from Poland
-- 🤔 Looking for an internship
 - 💬 Happy to contribute to Open Source Software :)
 - ✉️ Contact me via: "kamil.mleczko.4242@gmail.com"
 ## 🤖 Languages and Tools
